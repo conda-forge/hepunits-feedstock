@@ -5,11 +5,9 @@ Home: https://github.com/scikit-hep/hepunits
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hepunits-feedstock/blob/master/LICENSE.txt)
 
 Summary: Units and constants in the HEP system of units
-
-
 
 Current build status
 ====================
