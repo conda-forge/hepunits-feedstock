@@ -1,5 +1,5 @@
 {% set name = "hepunits" %}
-{% set version = "2.0.1" %}
+{% set version = "2.1.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/hepunits-{{ version }}.tar.gz
-  sha256: 840d6781325bc3a99c7f2e4ad65c13a9af8f5a98dc80045c83f1e479eb831399
+  sha256: 9e8da814c242579ad1fde6ccff0514195c70ab6d232eab8ff0ad675239686ef6
 
 build:
   number: 0
