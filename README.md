@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@chrisburr](https://github.com/chrisburr/)
+* [@conda-forge/scikit-hep](https://github.com/conda-forge/scikit-hep/)
 
