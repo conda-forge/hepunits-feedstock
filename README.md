@@ -9,6 +9,8 @@ Package license: BSD-3-Clause
 
 Summary: Units and constants in the HEP system of units
 
+Development: https://github.com/scikit-hep/hepunits
+
 Current build status
 ====================
 
