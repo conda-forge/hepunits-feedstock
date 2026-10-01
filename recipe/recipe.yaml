@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: hepunits
-  version: "2.4.6"
+  version: "2.4.7"
   python_min: '3.9'
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/hepunits-${{ version }}.tar.gz
-  sha256: bca6ada937147166d66e9fa152566f2378868d798211cad6990080399560fa34
+  sha256: dfbe9e9cdf265aeea1896352ca5eb50609e15d497a03c0466ba4a920763f6337
 
 build:
   number: 0
